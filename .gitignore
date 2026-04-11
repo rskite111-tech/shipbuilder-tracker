@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/parsed/
+data/_*.json
+data/notion_uploaded.json
+__pycache__/
+*.pyc
+.streamlit/
+docs_cache/
