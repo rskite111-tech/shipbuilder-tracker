@@ -107,6 +107,31 @@ def estimate_order_revenue(order: dict) -> dict[str, float]:
     return dict(quarterly)
 
 
+def _load_recent_opm(n_quarters: int = 4) -> dict[str, float]:
+    """재무 데이터에서 기업별 최근 N분기 평균 영업이익률(%) 계산"""
+    fin_file = DATA_DIR / "financials.json"
+    if not fin_file.exists():
+        return {}
+
+    with open(fin_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    opm = {}
+    from itertools import groupby
+    from operator import itemgetter
+
+    data_sorted = sorted(data, key=itemgetter("corp_name"))
+    for corp, rows in groupby(data_sorted, key=itemgetter("corp_name")):
+        rows = sorted(rows, key=lambda x: x["quarter"], reverse=True)
+        recent = rows[:n_quarters]
+        rev_sum = sum(r.get("revenue", 0) or 0 for r in recent)
+        op_sum = sum(r.get("operating_profit", 0) or 0 for r in recent)
+        if rev_sum > 0:
+            opm[corp] = round(op_sum / rev_sum * 100, 1)
+
+    return opm
+
+
 def estimate_all(orders: list[dict] = None) -> dict:
     """
     전체 수주에 대한 분기별 매출 추정
@@ -132,6 +157,11 @@ def estimate_all(orders: list[dict] = None) -> dict:
     by_company = defaultdict(lambda: defaultdict(float))
     by_quarter = defaultdict(lambda: defaultdict(float))
     totals = defaultdict(float)
+    # vintage: 분기별 매출이 어느 연도에 수주된 물량인지
+    # {quarter: {order_year: amount}}
+    by_vintage = defaultdict(lambda: defaultdict(float))
+    # 기업별 vintage: {company: {quarter: {order_year: amount}}}
+    by_company_vintage = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
 
     skipped = 0
     processed = 0
@@ -145,15 +175,44 @@ def estimate_all(orders: list[dict] = None) -> dict:
         processed += 1
         company = order.get("corp_name", "?")
 
+        # 수주 연도 추출 (rcept_dt: "20240315" 형식)
+        rcept_dt = order.get("rcept_dt", "")
+        order_year = rcept_dt[:4] if len(rcept_dt) >= 4 else "기타"
+
         for qtr, amt in rev.items():
             by_company[company][qtr] += amt
             by_quarter[qtr][company] += amt
             totals[qtr] += amt
+            by_vintage[qtr][order_year] += amt
+            by_company_vintage[company][qtr][order_year] += amt
+
+    # 영업이익 추정: 재무 데이터에서 최근 4분기 OPM 평균 적용
+    opm_by_company = _load_recent_opm()
+    op_by_company = defaultdict(lambda: defaultdict(float))
+    op_by_quarter = defaultdict(lambda: defaultdict(float))
+    op_totals = defaultdict(float)
+
+    for company, qtrs in by_company.items():
+        opm = opm_by_company.get(company, 0)
+        for qtr, rev_amt in qtrs.items():
+            op_amt = rev_amt * opm / 100
+            op_by_company[company][qtr] += op_amt
+            op_by_quarter[qtr][company] += op_amt
+            op_totals[qtr] += op_amt
 
     return {
         "by_company": {k: dict(v) for k, v in by_company.items()},
         "by_quarter": {k: dict(v) for k, v in sorted(by_quarter.items())},
         "totals": dict(sorted(totals.items())),
+        "op_by_company": {k: dict(v) for k, v in op_by_company.items()},
+        "op_by_quarter": {k: dict(v) for k, v in sorted(op_by_quarter.items())},
+        "op_totals": dict(sorted(op_totals.items())),
+        "opm_used": opm_by_company,
+        "by_vintage": {k: dict(v) for k, v in sorted(by_vintage.items())},
+        "by_company_vintage": {
+            comp: {qtr: dict(years) for qtr, years in sorted(qtrs.items())}
+            for comp, qtrs in by_company_vintage.items()
+        },
         "meta": {
             "total_orders": len(orders),
             "processed": processed,

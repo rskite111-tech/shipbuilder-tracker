@@ -1,0 +1,911 @@
+[
+  {
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "year": 2024,
+    "quarter": "2024Q4",
+    "backlog": 7390,
+    "rcept_no": "20250317000801",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 8325,
+    "rcept_no": "20250515000899",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 10455,
+    "rcept_no": "20250814003227",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 10006,
+    "rcept_no": "20251114002241",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 10889,
+    "rcept_no": "20260316001327",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2021,
+    "quarter": "2021Q2",
+    "backlog": 63042,
+    "rcept_no": "20210817001287",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2021,
+    "quarter": "2021Q3",
+    "backlog": 67359,
+    "rcept_no": "20211115002273",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2021,
+    "quarter": "2021Q4",
+    "backlog": 65804,
+    "rcept_no": "20220315000376",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2022,
+    "quarter": "2022Q1",
+    "backlog": 76769,
+    "rcept_no": "20220516000663",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2022,
+    "quarter": "2022Q2",
+    "backlog": 81213,
+    "rcept_no": "20220816001361",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2022,
+    "quarter": "2022Q3",
+    "backlog": 99393,
+    "rcept_no": "20221114001250",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2022,
+    "quarter": "2022Q4",
+    "backlog": 80857,
+    "rcept_no": "20230320000896",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2023,
+    "quarter": "2023Q1",
+    "backlog": 85784,
+    "rcept_no": "20230515002850",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2023,
+    "quarter": "2023Q2",
+    "backlog": 91977,
+    "rcept_no": "20230814002454",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2023,
+    "quarter": "2023Q3",
+    "backlog": 92974,
+    "rcept_no": "20231114001283",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2023,
+    "quarter": "2023Q4",
+    "backlog": 81405,
+    "rcept_no": "20240315000753",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2024,
+    "quarter": "2024Q1",
+    "backlog": 104538,
+    "rcept_no": "20240516000638",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2024,
+    "quarter": "2024Q2",
+    "backlog": 122139,
+    "rcept_no": "20240814002564",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2024,
+    "quarter": "2024Q3",
+    "backlog": 121952,
+    "rcept_no": "20241114001855",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 122570,
+    "rcept_no": "20250515001693",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 120897,
+    "rcept_no": "20250814002289",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010620",
+    "corp_name": "HD현대미포",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 116066,
+    "rcept_no": "20251117000181",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2021,
+    "quarter": "2021Q2",
+    "backlog": 181487,
+    "rcept_no": "20210810000341",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2021,
+    "quarter": "2021Q3",
+    "backlog": 216833,
+    "rcept_no": "20211115000980",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2021,
+    "quarter": "2021Q4",
+    "backlog": 218440,
+    "rcept_no": "20220314000704",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2022,
+    "quarter": "2022Q1",
+    "backlog": 242624,
+    "rcept_no": "20220516002360",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2022,
+    "quarter": "2022Q2",
+    "backlog": 287100,
+    "rcept_no": "20220816000947",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2022,
+    "quarter": "2022Q3",
+    "backlog": 360181,
+    "rcept_no": "20221114001378",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2022,
+    "quarter": "2022Q4",
+    "backlog": 331782,
+    "rcept_no": "20230320000790",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2023,
+    "quarter": "2023Q1",
+    "backlog": 346135,
+    "rcept_no": "20230515002433",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2023,
+    "quarter": "2023Q2",
+    "backlog": 360318,
+    "rcept_no": "20230814002529",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2023,
+    "quarter": "2023Q3",
+    "backlog": 387049,
+    "rcept_no": "20231114001059",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2023,
+    "quarter": "2023Q4",
+    "backlog": 414605,
+    "rcept_no": "20240318000459",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2024,
+    "quarter": "2024Q1",
+    "backlog": 459786,
+    "rcept_no": "20240516000877",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2024,
+    "quarter": "2024Q2",
+    "backlog": 463289,
+    "rcept_no": "20240814002485",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2024,
+    "quarter": "2024Q3",
+    "backlog": 439575,
+    "rcept_no": "20241114001816",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2024,
+    "quarter": "2024Q4",
+    "backlog": 469318,
+    "rcept_no": "20250318000897",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 496336,
+    "rcept_no": "20250515001993",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 463442,
+    "rcept_no": "20250814002347",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 450181,
+    "rcept_no": "20251114001468",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 563845,
+    "rcept_no": "20260320000859",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "439260",
+    "corp_name": "대한조선",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 18216,
+    "rcept_no": "20250814001141",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "439260",
+    "corp_name": "대한조선",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 15721,
+    "rcept_no": "20251114000487",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "439260",
+    "corp_name": "대한조선",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 17231,
+    "rcept_no": "20260323000620",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2021,
+    "quarter": "2021Q2",
+    "backlog": 155045,
+    "rcept_no": "20210813001105",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2021,
+    "quarter": "2021Q3",
+    "backlog": 172225,
+    "rcept_no": "20211115002392",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2021,
+    "quarter": "2021Q4",
+    "backlog": 197486,
+    "rcept_no": "20220310001057",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2022,
+    "quarter": "2022Q1",
+    "backlog": 212890,
+    "rcept_no": "20220516002175",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2022,
+    "quarter": "2022Q2",
+    "backlog": 253368,
+    "rcept_no": "20220816002492",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2022,
+    "quarter": "2022Q3",
+    "backlog": 257462,
+    "rcept_no": "20221114002294",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2022,
+    "quarter": "2022Q4",
+    "backlog": 285599,
+    "rcept_no": "20230309000699",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2023,
+    "quarter": "2023Q1",
+    "backlog": 286434,
+    "rcept_no": "20230515002381",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2023,
+    "quarter": "2023Q2",
+    "backlog": 277394,
+    "rcept_no": "20230814002585",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2023,
+    "quarter": "2023Q3",
+    "backlog": 302582,
+    "rcept_no": "20231114002370",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2023,
+    "quarter": "2023Q4",
+    "backlog": 284123,
+    "rcept_no": "20240315000850",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2024,
+    "quarter": "2024Q1",
+    "backlog": 332458,
+    "rcept_no": "20240516001939",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2024,
+    "quarter": "2024Q2",
+    "backlog": 333569,
+    "rcept_no": "20240814003886",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2024,
+    "quarter": "2024Q3",
+    "backlog": 314117,
+    "rcept_no": "20241114002657",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2024,
+    "quarter": "2024Q4",
+    "backlog": 315350,
+    "rcept_no": "20250319000397",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 323129,
+    "rcept_no": "20250515001817",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 257439,
+    "rcept_no": "20250814003877",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 267300,
+    "rcept_no": "20251114002181",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 280305,
+    "rcept_no": "20260312001037",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2021,
+    "quarter": "2021Q2",
+    "backlog": 11887,
+    "rcept_no": "20210813000511",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2021,
+    "quarter": "2021Q3",
+    "backlog": 13015,
+    "rcept_no": "20211112000618",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2021,
+    "quarter": "2021Q4",
+    "backlog": 11524,
+    "rcept_no": "20220316000731",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2022,
+    "quarter": "2022Q1",
+    "backlog": 13805,
+    "rcept_no": "20220513001116",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2022,
+    "quarter": "2022Q2",
+    "backlog": 18223,
+    "rcept_no": "20220812000503",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2022,
+    "quarter": "2022Q3",
+    "backlog": 23494,
+    "rcept_no": "20221111000362",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2022,
+    "quarter": "2022Q4",
+    "backlog": 21704,
+    "rcept_no": "20230315001359",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2023,
+    "quarter": "2023Q1",
+    "backlog": 24928,
+    "rcept_no": "20230512001157",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2023,
+    "quarter": "2023Q2",
+    "backlog": 24615,
+    "rcept_no": "20230811002403",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2023,
+    "quarter": "2023Q3",
+    "backlog": 28469,
+    "rcept_no": "20231114001265",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2023,
+    "quarter": "2023Q4",
+    "backlog": 25472,
+    "rcept_no": "20240320000730",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2024,
+    "quarter": "2024Q1",
+    "backlog": 25854,
+    "rcept_no": "20240514001182",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2024,
+    "quarter": "2024Q2",
+    "backlog": 28063,
+    "rcept_no": "20240814000553",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2024,
+    "quarter": "2024Q3",
+    "backlog": 32428,
+    "rcept_no": "20241114000548",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2024,
+    "quarter": "2024Q4",
+    "backlog": 33842,
+    "rcept_no": "20250813000469",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 41138,
+    "rcept_no": "20250514000432",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 40139,
+    "rcept_no": "20250813001303",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 39881,
+    "rcept_no": "20251113000238",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 41427,
+    "rcept_no": "20260318000939",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2021,
+    "quarter": "2021Q2",
+    "backlog": 151014,
+    "rcept_no": "20210817001027",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2021,
+    "quarter": "2021Q3",
+    "backlog": 171837,
+    "rcept_no": "20211115001018",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2021,
+    "quarter": "2021Q4",
+    "backlog": 189970,
+    "rcept_no": "20220314001167",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2022,
+    "quarter": "2022Q1",
+    "backlog": 230147,
+    "rcept_no": "20220516002442",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2022,
+    "quarter": "2022Q2",
+    "backlog": 249599,
+    "rcept_no": "20220816001827",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2022,
+    "quarter": "2022Q3",
+    "backlog": 307320,
+    "rcept_no": "20221111000310",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2022,
+    "quarter": "2022Q4",
+    "backlog": 278409,
+    "rcept_no": "20230313000849",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2023,
+    "quarter": "2023Q1",
+    "backlog": 282289,
+    "rcept_no": "20230515002059",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2023,
+    "quarter": "2023Q2",
+    "backlog": 270757,
+    "rcept_no": "20230814001646",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2023,
+    "quarter": "2023Q3",
+    "backlog": 258331,
+    "rcept_no": "20231114002221",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2023,
+    "quarter": "2023Q4",
+    "backlog": 256579,
+    "rcept_no": "20240328000773",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2024,
+    "quarter": "2024Q1",
+    "backlog": 273470,
+    "rcept_no": "20240514001522",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2024,
+    "quarter": "2024Q2",
+    "backlog": 293345,
+    "rcept_no": "20240813001552",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2024,
+    "quarter": "2024Q3",
+    "backlog": 272888,
+    "rcept_no": "20241114002675",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2024,
+    "quarter": "2024Q4",
+    "backlog": 304319,
+    "rcept_no": "20250314001630",
+    "source": "사업보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2025,
+    "quarter": "2025Q1",
+    "backlog": 310402,
+    "rcept_no": "20250513000657",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2025,
+    "quarter": "2025Q2",
+    "backlog": 274891,
+    "rcept_no": "20250812000676",
+    "source": "반기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2025,
+    "quarter": "2025Q3",
+    "backlog": 289044,
+    "rcept_no": "20251112000440",
+    "source": "분기보고서"
+  },
+  {
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "year": 2025,
+    "quarter": "2025Q4",
+    "backlog": 344951,
+    "rcept_no": "20260317000644",
+    "source": "사업보고서"
+  }
+]

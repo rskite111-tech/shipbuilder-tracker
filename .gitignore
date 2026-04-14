@@ -2,8 +2,9 @@
 data/raw/
 data/parsed/
 data/_*.json
+data/_*.txt
 data/notion_uploaded.json
 __pycache__/
 *.pyc
-.streamlit/
+.streamlit/secrets.toml
 docs_cache/
