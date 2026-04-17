@@ -18,7 +18,6 @@ DATA_DIR = Path(__file__).parent / "data"
 
 st.set_page_config(page_title="조선 수주 트래커", layout="wide", page_icon="🚢")
 
-# 사이드바 필터 색상 (녹색 계열)
 st.markdown("""
 <style>
     /* 멀티셀렉트 태그 */
@@ -53,6 +52,23 @@ st.markdown("""
     }
     .stButton > button:hover {
         background-color: #e8f5e9 !important;
+    }
+    /* 모바일: 컬럼 세로 스택 */
+    @media (max-width: 640px) {
+        [data-testid="column"] {
+            width: 100% !important;
+            flex: 1 1 100% !important;
+            min-width: 100% !important;
+        }
+        /* 탭 이름 작게 */
+        button[data-baseweb="tab"] {
+            font-size: 12px !important;
+            padding: 6px 8px !important;
+        }
+        /* 차트 여백 줄이기 */
+        .js-plotly-plot {
+            margin: 0 !important;
+        }
     }
 </style>
 """, unsafe_allow_html=True)
@@ -151,24 +167,24 @@ def main():
     stock_df = load_stock_prices()
     backlog_df = load_backlogs()
 
-    # ── 사이드바 필터 ──
-    st.sidebar.header("필터")
-
-    companies = st.sidebar.multiselect(
-        "기업", df["corp_name"].unique().tolist(),
-        default=df["corp_name"].unique().tolist()
-    )
-
-    ship_types = st.sidebar.multiselect(
-        "선종", df["ship_type"].unique().tolist(),
-        default=df["ship_type"].unique().tolist()
-    )
-
-    year_range = st.sidebar.slider(
-        "공시 연도",
-        int(df["year"].min()), int(df["year"].max()),
-        (int(df["year"].min()), int(df["year"].max()))
-    )
+    # ── 필터 (상단 expander) ──
+    with st.expander("필터", expanded=False):
+        fc1, fc2 = st.columns(2)
+        with fc1:
+            companies = st.multiselect(
+                "기업", df["corp_name"].unique().tolist(),
+                default=df["corp_name"].unique().tolist()
+            )
+        with fc2:
+            ship_types = st.multiselect(
+                "선종", df["ship_type"].unique().tolist(),
+                default=df["ship_type"].unique().tolist()
+            )
+        year_range = st.slider(
+            "공시 연도",
+            int(df["year"].min()), int(df["year"].max()),
+            (int(df["year"].min()), int(df["year"].max()))
+        )
 
     mask = (
         df["corp_name"].isin(companies) &
@@ -178,7 +194,6 @@ def main():
     filtered = df[mask].copy()
 
     # ── KPI 카드 ──
-    col1, col2, col3, col4 = st.columns(4)
     total_amt = filtered["contract_amount_krw"].sum()
     total_count = len(filtered)
     avg_per_vessel = filtered["per_vessel_price_krw"].dropna().mean()
@@ -186,8 +201,10 @@ def main():
     ytd = filtered[filtered["year"] == current_year]
     ytd_amt = ytd["contract_amount_krw"].sum()
 
+    col1, col2 = st.columns(2)
     col1.metric("총 수주 건수", f"{total_count}건")
     col2.metric("총 수주 금액", f"{total_amt/10000:,.1f}조원")
+    col3, col4 = st.columns(2)
     col3.metric(f"{current_year}년 YTD", f"{ytd_amt/10000:,.1f}조원")
     col4.metric("평균 척당 단가", f"{avg_per_vessel:,.0f}억원" if pd.notna(avg_per_vessel) else "-")
 
@@ -328,22 +345,21 @@ def main():
 
     # ── 탭3: 기업별 비교 ──
     with tabs[2]:
-        c1, c2 = st.columns(2)
-        with c1:
-            st.subheader("기업별 수주 금액")
-            comp_amt = filtered.groupby("corp_name")["contract_amount_krw"].sum().reset_index()
-            comp_amt.columns = ["기업", "금액"]
-            fig3 = px.pie(comp_amt, values="금액", names="기업", title="수주 금액 점유율",
-                         color="기업", color_discrete_map=COLOR_MAP)
-            st.plotly_chart(fig3, use_container_width=True)
+        st.subheader("기업별 수주 금액")
+        comp_amt = filtered.groupby("corp_name")["contract_amount_krw"].sum().reset_index()
+        comp_amt.columns = ["기업", "금액"]
+        fig3 = px.pie(comp_amt, values="금액", names="기업", title="수주 금액 점유율",
+                     color="기업", color_discrete_map=COLOR_MAP)
+        fig3.update_layout(height=380)
+        st.plotly_chart(fig3, use_container_width=True)
 
-        with c2:
-            st.subheader("기업별 수주 건수")
-            comp_cnt = filtered.groupby("corp_name").size().reset_index(name="건수")
-            comp_cnt.columns = ["기업", "건수"]
-            fig4 = px.pie(comp_cnt, values="건수", names="기업", title="수주 건수 점유율",
-                         color="기업", color_discrete_map=COLOR_MAP)
-            st.plotly_chart(fig4, use_container_width=True)
+        st.subheader("기업별 수주 건수")
+        comp_cnt = filtered.groupby("corp_name").size().reset_index(name="건수")
+        comp_cnt.columns = ["기업", "건수"]
+        fig4 = px.pie(comp_cnt, values="건수", names="기업", title="수주 건수 점유율",
+                     color="기업", color_discrete_map=COLOR_MAP)
+        fig4.update_layout(height=380)
+        st.plotly_chart(fig4, use_container_width=True)
 
         st.subheader("연도별 기업별 수주 금액")
         yearly = filtered.groupby(["year", "corp_name"])["contract_amount_krw"].sum().reset_index()
