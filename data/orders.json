@@ -9232,5 +9232,41 @@
     "order_date": "2026-04-16",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,473.10원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260422800038",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260422",
+    "contract_name": "쇄빙전용선 1척",
+    "contract_amount_krw": 5148,
+    "revenue_ratio_pct": 2.93,
+    "ship_type": "기타",
+    "vessel_count": 1,
+    "per_vessel_price_krw": 5148,
+    "counterparty": "Swedish Maritime Administration",
+    "delivery_start": "2026-04",
+    "delivery_end": "2029-08",
+    "order_date": "2026-04-21",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,475.60원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260422800175",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260422",
+    "contract_name": "엔진발전기 공급",
+    "contract_amount_krw": 6271,
+    "revenue_ratio_pct": 3.57,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "Aperion Energy Group Holdings I,Ⅱ,Ⅲ LLC",
+    "delivery_start": "2026-04",
+    "delivery_end": "2030-10",
+    "order_date": "2026-04-21",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약기간은 상대 발전소 건설 일정에 따라 변동될 수 있음. \n \n \n4) 상기 계약은 계약상대방의 선수금 지급을 조건으로 하는 조건부계약으로, \n조건을 충족하지 못할 경우 계약을 취소할 수 있음. 이 경우 별도 공시를 진행할 예정임. \n \n \n5) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,475.60원을 적용하여 계산한 금액임."
   }
 ]
