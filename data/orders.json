@@ -9286,5 +9286,23 @@
     "order_date": "2022-01-10",
     "fuel_type": "기존연료",
     "remarks": "4. 기존 계약금액에 포함되었던 잠정적인 보관료가 금번 합의 과정에서 보관기간이 확정되어 실제 정산금액으로 전환되면서 계약금액이 감소되었습니다."
+  },
+  {
+    "rcept_no": "20260429800330",
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "rcept_dt": "20260429",
+    "contract_name": "선박엔진 공급계약",
+    "contract_amount_krw": 1068,
+    "revenue_ratio_pct": 26.5,
+    "ship_type": "해양플랜트",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "XIAMEN XMXYG SHIPBUILDING TRADING CO.,LTD.",
+    "delivery_start": "2026-04",
+    "delivery_end": "2029-09",
+    "order_date": "2026-04-29",
+    "fuel_type": "기존연료",
+    "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,473.3원/USD)을 적용한 금액입니다. \n4.해당 선박엔진 계약의 실수요처(조선소)는 Xiangyu Shipbuilding & Offshore Engineering Co., Ltd. 입니다."
   }
 ]
