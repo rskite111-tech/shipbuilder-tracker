@@ -9376,5 +9376,41 @@
     "order_date": "2026-04-30",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,476.10원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260508800180",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260508",
+    "contract_name": "컨테이너선 6척",
+    "contract_amount_krw": 17787,
+    "revenue_ratio_pct": 10.12,
+    "ship_type": "컨테이너선",
+    "vessel_count": 6,
+    "per_vessel_price_krw": 2964,
+    "counterparty": "아시아 소재 선사",
+    "delivery_start": "2026-05",
+    "delivery_end": "2029-09",
+    "order_date": "2026-05-07",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,456.80원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260508800181",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260508",
+    "contract_name": "",
+    "contract_amount_krw": 3521,
+    "revenue_ratio_pct": 2.0,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "오세아니아 소재 선사",
+    "delivery_start": "2026-05",
+    "delivery_end": "2029-03",
+    "order_date": "",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,456.80원을 적용하여 계산한 금액임."
   }
 ]
