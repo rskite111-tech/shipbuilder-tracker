@@ -9484,5 +9484,41 @@
     "order_date": "2026-05-13",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,484.30원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260518800002",
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "rcept_dt": "20260518",
+    "contract_name": "LNGC 2척",
+    "contract_amount_krw": 7563,
+    "revenue_ratio_pct": 7.0,
+    "ship_type": "LNG운반선",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 3782,
+    "counterparty": "아프리카 지역 선주",
+    "delivery_start": "4. 본 계약은 계약 당사자 간 합의에 따라 2026년 5월 15일 발효되었습니다.",
+    "delivery_end": "2029-05",
+    "order_date": "2026-03-24",
+    "fuel_type": "기존연료",
+    "remarks": "4. 본 계약은 계약 당사자 간 합의에 따라 선행조건 이행 후 2026년 5월 내 발효될 예정으로 상기 계약기간 시작일은 계약 발효 예상일을 기재하였습니다. 해당 계약이 발효되지 않을 경우 정정공시 예정입니다."
+  },
+  {
+    "rcept_no": "20260518800216",
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "rcept_dt": "20260518",
+    "contract_name": "LNG운반선 3척",
+    "contract_amount_krw": 11242,
+    "revenue_ratio_pct": 10.6,
+    "ship_type": "LNG운반선",
+    "vessel_count": 3,
+    "per_vessel_price_krw": 3747,
+    "counterparty": "오세아니아 지역 선주",
+    "delivery_start": "2026-05",
+    "delivery_end": "2029-05",
+    "order_date": "2026-05-15",
+    "fuel_type": "LNG",
+    "remarks": "1. 상기 2항의 계약금액은 계약일의 매매기준환율(@1,491.8/$)을 적용했으며, \n\n          \n           계약금액과 최근매출액은 억원 미만에서 반올림했습니다. \n \n2. 상기 2항의 최근매출액은 '25년 연결재무제표 기준입니다. \n \n3. 상기 5항의 계약 종료일은 인도일 기준이며, 공사 진행 상황에 따라 변동될 수 있습니다."
   }
 ]
