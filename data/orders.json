@@ -9646,5 +9646,23 @@
     "order_date": "2026-05-29",
     "fuel_type": "기존연료",
     "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,505.8원/USD)을 적용한 금액입니다. \n4.해당 선박엔진 계약의 실수요처(조선소)는 XMXYG Shipbuilding & Offshore Engineering Co., LTD. 입니다."
+  },
+  {
+    "rcept_no": "20260601800013",
+    "corp_code": "439260",
+    "corp_name": "대한조선",
+    "rcept_dt": "20260601",
+    "contract_name": "원유운반선(157,000 DWT) 2척",
+    "contract_amount_krw": 2828,
+    "revenue_ratio_pct": 23.03,
+    "ship_type": "VLCC",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 1414,
+    "counterparty": "오세아니아 지역 선주",
+    "delivery_start": "2026-05",
+    "delivery_end": "2028-12",
+    "order_date": "2026-05-29",
+    "fuel_type": "기존연료",
+    "remarks": "- 상기 2항의 계약금액은 계약일의 최초 매매기준율(1,505.80원/$)을 적용하여 환산된 \n\n          \n          기준이며, 계약금액과 최근매출액은 억원 미만에서 각각 반올림했습니다. \n \n- 상기 2항의 최근매출액은 2025년 연결재무제표 기준입니다. \n \n- 상기 5항의 계약기간 종료일은 인도일 기준이며, 공사진행 상황에 따라 변동될 수 \n\n          \n          있습니다."
   }
 ]
