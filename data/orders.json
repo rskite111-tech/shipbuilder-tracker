@@ -9718,5 +9718,23 @@
     "order_date": "2026-06-01",
     "fuel_type": "기존연료",
     "remarks": "4. 본계약은 선주사의 공사진행통보서(Notice To Proceed) 발급 조건부 계약으로 선주사의 NTP 통지 즉시 계약이 확정됩니다. \n계약이 확정되거나 변동되는 경우 재공시하도록 하겠습니다."
+  },
+  {
+    "rcept_no": "20260608800137",
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "rcept_dt": "20260608",
+    "contract_name": "LNG운반선 1척",
+    "contract_amount_krw": 3855,
+    "revenue_ratio_pct": 3.6,
+    "ship_type": "LNG운반선",
+    "vessel_count": 1,
+    "per_vessel_price_krw": 3855,
+    "counterparty": "오세아니아 지역 선주",
+    "delivery_start": "2026-06",
+    "delivery_end": "2029-01",
+    "order_date": "2026-06-05",
+    "fuel_type": "LNG",
+    "remarks": "1. 상기 2항의 계약금액은 계약일의 매매기준환율(@1,528.6/$)을 적용했으며, \n\n          \n           계약금액과 최근매출액은 억원 미만에서 반올림했습니다. \n \n2. 상기 2항의 최근매출액은 '25년 연결재무제표 기준입니다. \n \n3. 상기 5항의 계약 종료일은 인도일 기준이며, 공사 진행 상황에 따라 변동될 수 있습니다."
   }
 ]
