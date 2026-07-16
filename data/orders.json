@@ -10042,5 +10042,41 @@
     "order_date": "",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,481.40원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260715800071",
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "rcept_dt": "20260715",
+    "contract_name": "VLCC 2척",
+    "contract_amount_krw": 3943,
+    "revenue_ratio_pct": 3.1,
+    "ship_type": "VLCC",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 1972,
+    "counterparty": "북미 지역 선주",
+    "delivery_start": "2026-07",
+    "delivery_end": "2030-03",
+    "order_date": "2026-07-14",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 최근 매출액은 2025년말 연결재무제표 기준이며, 계약금액과 최근 매출액은 억원 미만에서 각각 반올림했습니다. \n \n2. 상기 계약금액은 2026-07-14일자 매매기준환율인 1USD = 1,504.90원을 적용하여 계산한 금액입니다. \n \n3. 상기 계약기간 및 최종 정산금액은 공사진행 과정에서 추후 변경될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260715800300",
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "rcept_dt": "20260715",
+    "contract_name": "선박엔진 공급 계약",
+    "contract_amount_krw": 126,
+    "revenue_ratio_pct": 5.2,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "Taizhou Maple Leaf Shipbuilding Co., Ltd.",
+    "delivery_start": "2024-12",
+    "delivery_end": "2029-01",
+    "order_date": "2024-12-26",
+    "fuel_type": "기존연료",
+    "remarks": "1.상기의 최근매출액은 2023년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,453.6원/USD)을 적용한 금액입니다. \n4.본 계약은 2024년 10월에 체결된 원계약(USD 8,700,000)의 추가옵션 발효 분이며, \n\n          \n          상기의 계약(수주)일자는 본 계약의 발효일입니다."
   }
 ]
