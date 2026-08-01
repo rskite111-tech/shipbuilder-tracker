@@ -10114,5 +10114,41 @@
     "order_date": "2025-07-18",
     "fuel_type": "기존연료",
     "remarks": "1. 상기 2항의 계약금액은 부가세를 포함한 금액입니다.   \n \n2. 상기 2항의 최근매출액은 2024년말 연결재무제표 기준입니다. \n \n3. 상기 5항의 계약 종료일은 준공일 기준이며, 공사 진행 상황에 따라 변동될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260731800210",
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "rcept_dt": "20260731",
+    "contract_name": "선박엔진 공급계약",
+    "contract_amount_krw": 475,
+    "revenue_ratio_pct": 11.8,
+    "ship_type": "해양플랜트",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "XIAMEN XMXYG SHIPBUILDING TRADING CO.,LTD.",
+    "delivery_start": "2026-07",
+    "delivery_end": "2029-08",
+    "order_date": "2026-07-31",
+    "fuel_type": "기존연료",
+    "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,441.1원/USD)을 적용한 금액입니다. \n4.해당 선박엔진 계약의 실수요처(조선소)는 XMXYG Shipbuilding & Offshore Engineering Co., LTD. 및 Xiangyu Shipbuilding & Offshore Engineering Co., LTD. 입니다."
+  },
+  {
+    "rcept_no": "20260731800216",
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "rcept_dt": "20260731",
+    "contract_name": "구축함(KDDX) 상세설계 및 선도함 건조 사업",
+    "contract_amount_krw": 8380,
+    "revenue_ratio_pct": 6.6,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "방위사업청",
+    "delivery_start": "2026-07",
+    "delivery_end": "2032-06",
+    "order_date": "2026-07-31",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 최근매출액은 2025년 말 연결재무제표 기준이며, 계약금액 및 최근매출액은 각각 억원 미만에서 반올림한 금액입니다. \n \n2. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 추후 변경될 수 있습니다."
   }
 ]
