@@ -10150,5 +10150,41 @@
     "order_date": "2026-07-31",
     "fuel_type": "기존연료",
     "remarks": "1. 상기 최근매출액은 2025년 말 연결재무제표 기준이며, 계약금액 및 최근매출액은 각각 억원 미만에서 반올림한 금액입니다. \n \n2. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 추후 변경될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260803800398",
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "rcept_dt": "20260803",
+    "contract_name": "유조선 2척",
+    "contract_amount_krw": 2680,
+    "revenue_ratio_pct": 2.5,
+    "ship_type": "기타",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 1340,
+    "counterparty": "유럽 지역 선주",
+    "delivery_start": "2026-07",
+    "delivery_end": "2029-08",
+    "order_date": "2026-07-31",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 2항의 계약금액은 계약일의 매매기준환율(@1,441.1/$)을 적용했으며, 계약금액과 최근매출액은 억원 미만에서 반올림했습니다. \n \n2. 상기 2항의 최근매출액은 '25년 연결재무제표 기준입니다. \n \n3. 상기 5항의 계약 종료일은 인도일 기준이며, 공사 진행 상황에 따라 변동될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260803800706",
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "rcept_dt": "20260803",
+    "contract_name": "여수에코에너지 LNG 집단에너지 사업(490MW) EPC 계약",
+    "contract_amount_krw": 5279,
+    "revenue_ratio_pct": 4.1,
+    "ship_type": "LNG운반선",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "여수에코에너지㈜",
+    "delivery_start": "2026-08",
+    "delivery_end": "2029-08",
+    "order_date": "2026-08-03",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 최근매출액은 2025년 말 연결재무제표 기준이며, 계약금액 및 최근 매출액은 각각 억원 미만에서 반올림하였습니다. \n \n2. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 변경될 수 있습니다."
   }
 ]
