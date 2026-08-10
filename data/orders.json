@@ -10186,5 +10186,23 @@
     "order_date": "2026-08-03",
     "fuel_type": "기존연료",
     "remarks": "1. 상기 최근매출액은 2025년 말 연결재무제표 기준이며, 계약금액 및 최근 매출액은 각각 억원 미만에서 반올림하였습니다. \n \n2. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 변경될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260810800144",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260810",
+    "contract_name": "엔진발전기 공급",
+    "contract_amount_krw": 9560,
+    "revenue_ratio_pct": 5.44,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "Corban Energy Group",
+    "delivery_start": "2026-08",
+    "delivery_end": "2030-07",
+    "order_date": "2026-08-07",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약기간은 상대 발전소 건설 일정에 따라 변동될 수 있음. \n \n \n4) 상기 계약은 계약상대방의 선수금 지급을 조건으로 하는 조건부계약으로, 조건을 충족하지 못할 경우 계약을 취소할 수 있음. 이 경우 별도 공시를 진행할 예정임. \n \n \n5) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,418.80원을 적용하여 계산한 금액임."
   }
 ]
