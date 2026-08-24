@@ -10222,5 +10222,23 @@
     "order_date": "2026-08-21",
     "fuel_type": "기존연료",
     "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,393.0원/USD)을 적용한 금액입니다."
+  },
+  {
+    "rcept_no": "20260824800122",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260824",
+    "contract_name": "LPGC 4척",
+    "contract_amount_krw": 5154,
+    "revenue_ratio_pct": 2.93,
+    "ship_type": "LPG운반선",
+    "vessel_count": 4,
+    "per_vessel_price_krw": 1288,
+    "counterparty": "오세아니아 소재 선사",
+    "delivery_start": "2026-08",
+    "delivery_end": "2030-03",
+    "order_date": "2026-08-21",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,393.00원을 적용하여 계산한 금액임."
   }
 ]
