@@ -10456,5 +10456,23 @@
     "order_date": "2024-06-28",
     "fuel_type": "기존연료",
     "remarks": "1. 상기 최근 매출액은 2023년말 연결재무제표 기준이며, 계약금액과 최근 매출액은 억원 미만에서 각각 반올림하였습니다. \n \n2. 상기 계약금액은 2024-06-28일자 매매기준환율인 1USD= 1,389.20원을 적용하여 계산한 금액입니다. \n \n3. 상기 계약기간 및 최종정산 금액은 공사진행 과정에서 추후 변경될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260922800219",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260922",
+    "contract_name": "",
+    "contract_amount_krw": 3362,
+    "revenue_ratio_pct": 1.91,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "유럽 소재 선사",
+    "delivery_start": "2026-09",
+    "delivery_end": "2029-11",
+    "order_date": "",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,383.80원을 적용하여 계산한 금액임."
   }
 ]
