@@ -10474,5 +10474,23 @@
     "order_date": "",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,383.80원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20260928800496",
+    "corp_code": "042660",
+    "corp_name": "한화오션",
+    "rcept_dt": "20260928",
+    "contract_name": "LNGC 2척",
+    "contract_amount_krw": 6800,
+    "revenue_ratio_pct": 5.3,
+    "ship_type": "LNG운반선",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 3400,
+    "counterparty": "아프리카 지역 선주",
+    "delivery_start": "2026-09",
+    "delivery_end": "2029-11",
+    "order_date": "2026-09-23",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 최근 매출액은 2025년말 연결재무제표 기준이며, 계약금액과 최근 매출액은 각각 억 원 미만 단위에서 반올림했습니다. \n \n2. 상기 계약금액은 2026-09-23 일자 매매기준환율인 1USD = 1,360.00원을 적용하여 계산한 금액입니다. \n \n3. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 변경될 수 있습니다."
   }
 ]
