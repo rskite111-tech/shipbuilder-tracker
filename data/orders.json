@@ -10492,5 +10492,41 @@
     "order_date": "2026-09-23",
     "fuel_type": "기존연료",
     "remarks": "1. 상기 최근 매출액은 2025년말 연결재무제표 기준이며, 계약금액과 최근 매출액은 각각 억 원 미만 단위에서 반올림했습니다. \n \n2. 상기 계약금액은 2026-09-23 일자 매매기준환율인 1USD = 1,360.00원을 적용하여 계산한 금액입니다. \n \n3. 상기 계약기간 및 최종 정산금액은 공사 진행 과정에서 변경될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260930800054",
+    "corp_code": "010140",
+    "corp_name": "삼성중공업",
+    "rcept_dt": "20260930",
+    "contract_name": "VLGC 2척",
+    "contract_amount_krw": 3074,
+    "revenue_ratio_pct": 2.9,
+    "ship_type": "LPG운반선",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 1537,
+    "counterparty": "버뮤다 지역 선주",
+    "delivery_start": "2026-09",
+    "delivery_end": "2030-02",
+    "order_date": "2026-09-29",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 2항의 계약금액은 계약일의 매매기준환율(@1,360.0/$)을 적용했으며, 계약금액과 최근매출액은 억원 미만에서 반올림했습니다. \n \n2. 상기 2항의 최근매출액은 '25년 연결재무제표 기준입니다. \n \n3. 상기 5항의 계약 종료일은 인도일 기준이며, 공사 진행 상황에 따라 변동될 수 있습니다."
+  },
+  {
+    "rcept_no": "20260930800154",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20260930",
+    "contract_name": "FPU 1기",
+    "contract_amount_krw": 19539,
+    "revenue_ratio_pct": 20.37,
+    "ship_type": "FPSO",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "멕시코 소재 원유 개발 업체",
+    "delivery_start": "2023-07",
+    "delivery_end": "2027-06",
+    "order_date": "2023-06-30",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2022년 연결재무제표 기준임. \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,312.80 원을 적용하여 계산한 금액임. \n \n4) 본 계약은 조건부 계약이며, 변경사항 발생시 즉시 재공시예정임."
   }
 ]
