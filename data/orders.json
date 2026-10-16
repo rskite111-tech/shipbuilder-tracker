@@ -10564,5 +10564,41 @@
     "order_date": "2023-06-30",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2022년 연결재무제표 기준임. \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,312.80 원을 적용하여 계산한 금액임. \n \n4) 본 계약은 조건부 계약이며, 변경사항 발생시 즉시 재공시예정임."
+  },
+  {
+    "rcept_no": "20261015800353",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20261015",
+    "contract_name": "VLGC 4척",
+    "contract_amount_krw": 6258,
+    "revenue_ratio_pct": 3.56,
+    "ship_type": "LPG운반선",
+    "vessel_count": 4,
+    "per_vessel_price_krw": 1564,
+    "counterparty": "중동 소재 선사",
+    "delivery_start": "2026-10",
+    "delivery_end": "2030-06",
+    "order_date": "2026-10-14",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,340.50원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20261015800682",
+    "corp_code": "082740",
+    "corp_name": "한화엔진",
+    "rcept_dt": "20261015",
+    "contract_name": "선박용 엔진",
+    "contract_amount_krw": 1323,
+    "revenue_ratio_pct": 9.6,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "삼성중공업(주)",
+    "delivery_start": "2026-10",
+    "delivery_end": "2028-11",
+    "order_date": "2026-10-15",
+    "fuel_type": "기존연료",
+    "remarks": "1. 상기 계약은 삼성중공업(주)이 건조 예정인 선박에 엔진을 공급하는 계약임 \n2. 상기 2항의 최근매출액은 2025년말 연결재무제표 기준임 \n3. 상기 2항의 계약금액은 계약체결일의 매매기준환율(1,338.60원/USD)을 적용하여 계산한 금액임 \n4. 상기 5항의 계약기간은 선박 건조일정의 진행상황에 따라 변동될 수 있음 \n5. 상기 7항의 계약(수주)일자는 삼성중공업㈜과 체결한 엔진 공급 LOI(Letter of Intent)의 발효일임"
   }
 ]
