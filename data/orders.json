@@ -10636,5 +10636,23 @@
     "order_date": "2026-10-21",
     "fuel_type": "기존연료",
     "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,328원/USD)을 적용한 금액입니다."
+  },
+  {
+    "rcept_no": "20261026800199",
+    "corp_code": "071970",
+    "corp_name": "HD현대마린엔진",
+    "rcept_dt": "20261026",
+    "contract_name": "선박엔진 공급계약",
+    "contract_amount_krw": 302,
+    "revenue_ratio_pct": 7.5,
+    "ship_type": "기타",
+    "vessel_count": null,
+    "per_vessel_price_krw": null,
+    "counterparty": "제이오션중공업 주식회사 \n(J Ocean Heavy Industries Co., Ltd.)",
+    "delivery_start": "2026-10",
+    "delivery_end": "2028-06",
+    "order_date": "2026-10-23",
+    "fuel_type": "기존연료",
+    "remarks": "1.상기의 최근매출액은 2025년 말 연결재무제표 기준입니다. \n2.상기의 계약기간은 상대 조선소의 선박 건조일정에 따라 변동될 수 있습니다. \n3.상기의 계약금액은 계약일의 최초고시환율(1,324.6원/USD)을 적용한 금액입니다."
   }
 ]
