@@ -10708,5 +10708,23 @@
     "order_date": "2026-11-05",
     "fuel_type": "기존연료",
     "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,340.70원을 적용하여 계산한 금액임."
+  },
+  {
+    "rcept_no": "20261109800193",
+    "corp_code": "329180",
+    "corp_name": "HD현대중공업",
+    "rcept_dt": "20261109",
+    "contract_name": "LNGC 2척",
+    "contract_amount_krw": 6629,
+    "revenue_ratio_pct": 3.77,
+    "ship_type": "LNG운반선",
+    "vessel_count": 2,
+    "per_vessel_price_krw": 3314,
+    "counterparty": "아프리카 소재 선사",
+    "delivery_start": "2026-11",
+    "delivery_end": "2029-10",
+    "order_date": "2026-11-06",
+    "fuel_type": "기존연료",
+    "remarks": "1) 상기 최근매출액은 2025년 연결재무제표 기준임. \n \n \n2) 상기 계약금액 및 최근매출액은 억원 미만에서 반올림함. \n \n \n3) 상기 계약금액은 계약일 최초 고시환율인 USD 1 = 1,342.00원을 적용하여 계산한 금액임."
   }
 ]
